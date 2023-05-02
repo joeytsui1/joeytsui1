@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 ## Introduction
 - 🔭 I am a Software Developer graduated from App Academy, a software development bootcamp 
 - 🌱 I’m currently learning TypeScript and Python
