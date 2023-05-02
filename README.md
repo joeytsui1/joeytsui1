@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ## Technologies
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,ruby,rails,html,css,sqlite,mysql,postgres,git,aws,&perline=8&theme=dark)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,nodejs,express,mongodb,ruby,rails,html,css,sqlite,mysql,postgres,git,aws&perline=8&theme=dark)](https://skills.thijs.gg)
 <!--
 **joeytsui1/joeytsui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
