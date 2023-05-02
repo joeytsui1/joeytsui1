@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,ruby,rails,html,css,sqlite,mysql,postgres,git,aws,&perline=8&theme=dark)](https://skillicons.dev)
 <!--
 **joeytsui1/joeytsui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
