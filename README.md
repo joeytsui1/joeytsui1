@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joeytsui1&theme=transparent)](https://git.io/streak-stats)
+![joeytsui1's Stats](https://github-readme-stats.vercel.app/api?username=joeytsui1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytsui1&layout=compact&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![joeytsui1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeytsui1&theme=tokyonight&hide_border=true)
+
+![joeytsui1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytsui1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
