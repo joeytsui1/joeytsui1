@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Introduction
+- 🔭 I am a Software Developer graduated from App Academy, a software development bootcamp 
+- 🌱 I’m currently learning TypeScript and Python
+- - 📫 How to reach me: Email on joeytsui131@gmail.com or <a target='_blank' href="https://www.linkedin.com/in/joey-tsui-5836a2240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 ## Technologies
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,redux,nodejs,express,mongodb,ruby,rails,html,css,sqlite,mysql,postgres,git,aws&perline=8&theme=dark)](https://skills.thijs.gg)
 <!--
