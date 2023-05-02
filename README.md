@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joeytsui1&theme=transparent)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytsui1&layout=compact&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
