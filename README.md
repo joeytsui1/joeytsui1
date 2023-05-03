@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 
 ![joeytsui1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeytsui1&theme=tokyonight&hide_border=true)
 
-![joeytsui1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytsui1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
