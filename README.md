@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+ ![giphy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY0ZTEwMjBlMWZjYWUxNTE0OTNmZTMwMTgzM2I3ODdhOWJmMzBkNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Wj7lNjMNDxSmc/giphy.gif)
 
 ## Introduction
 - 🔭 I am a Software Developer graduated from App Academy, a software development bootcamp 
