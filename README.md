@@ -4,6 +4,7 @@
 
 ## Introduction
 - 🔭 I am a Software Developer graduated from App Academy, a software development bootcamp 
+- 🔭 I am located in New York City, seeking software developer position
 - 🌱 I’m currently learning TypeScript and Python
 - 📫 How to reach me: Email on joeytsui131@gmail.com or <a target='_blank' href="https://www.linkedin.com/in/joey-tsui-5836a2240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
